@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import '../css/app.css';
 import './bootstrap';
 
@@ -28,3 +29,6 @@ createInertiaApp({
 });
 
 createApp(App).mount('#app');
+=======
+import './bootstrap';
+>>>>>>> d0a2a32e5317c103ff48b2c0b55f18682d8832ef
